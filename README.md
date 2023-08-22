@@ -1,16 +1,11 @@
 # plant_app_ui
 
-A new Flutter project.
+A preview of the app
 
-## Getting Started
+https://github.com/Fmaj1234/plant_app_ui/assets/49940296/f1437b5a-976d-4695-b324-e6cd03cbd7f3
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230822-030307_iphone13blue_portrait](https://github.com/Fmaj1234/plant_app_ui/assets/49940296/6256e3fd-2ee3-4fa4-9669-3573dec5e9f6)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20230822-030316_iphone13blue_portrait](https://github.com/Fmaj1234/plant_app_ui/assets/49940296/56a1f21a-41ce-455c-9452-f42eb261e41a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230822-030326_iphone13blue_portrait](https://github.com/Fmaj1234/plant_app_ui/assets/49940296/6f62839f-6304-4ea6-a27a-25345e714ecb)
